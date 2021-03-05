@@ -65,7 +65,7 @@
       images: [
         "img/bgslides/1.png",
         "img/bgslides/2.png",
-        "img/bgslides/3.png"
+        "img/works2/Tigo.png"
       ],
 
       onStart: function() {},
